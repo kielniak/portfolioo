@@ -78,3 +78,39 @@ nav a {
   padding-bottom: 2px;
   border-bottom: 2px solid transparent;
 }
+
+section {
+  padding: 30px 0 10px;
+  scroll-margin-top: 60px;
+}
+
+.project {
+  background: var(--box);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.tech {
+  margin: 8px 0;
+}
+
+.tech span {
+  display: inline-block;
+  font-size: 13px;
+  color: var(--muted);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 0 8px;
+  margin: 0 6px 6px 0;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 16px 0 30px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 14px;
+}
+
