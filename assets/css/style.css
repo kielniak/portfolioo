@@ -114,3 +114,6 @@ footer {
   font-size: 14px;
 }
 
+.green { --accent: #3fb950; }
+.blue  { --accent: #4c9aff; }
+
